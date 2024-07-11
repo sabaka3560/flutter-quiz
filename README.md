@@ -15,8 +15,8 @@ This Flutter application is a fully-functional quiz app featuring a sleek UI and
 - **Dart**: Language used for developing Flutter applications.
 
 ### How to Use:
-1. Clone the repository: `git clone https://github.com/your-username/quiz-app-flutter.git`
-2. Navigate into the project directory: `cd quiz-app-flutter`
+1. Clone the repository: `git clone https://github.com/sabaka3560/flutter-quiz.git`
+2. Navigate into the project directory: `cd flutter-quiz`
 3. Run the app: `flutter run`
 
 ### Web Version:
